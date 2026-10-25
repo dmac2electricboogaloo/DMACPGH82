@@ -44,4 +44,4 @@ dmac@dmac2electricboogaloo.io
 
 ---
 
-*Doesn't mean anything. Still cool.* 🪓
+*Doesn't Mean Anything Cool*
