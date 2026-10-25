@@ -1,6 +1,6 @@
 # 💀 Welcome to the Doesn't Mean Anything Cool GitHub of DOOM!!! 💀
 
-**DMAC**, as in **D**oesn't **M**ean **A**nything **C**ool. Hi, I'm @DMACPGH82.
+**DMAC**, as in **D**oesn't **M**ean **A**nything **C**ool. Hi, I'm @dmac2electricboogaloo.
 
 This is my playground. Scripts, experiments, course work, and half-finished ideas all end up here. Some of it is useful, some of it is silly, and all of it taught me something.
 
